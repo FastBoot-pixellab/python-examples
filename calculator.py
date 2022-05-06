@@ -1,0 +1,7 @@
+print("Calculator :)")
+print("First term: ")
+firstterm = input()
+print("Second term: ")
+secondterm = input()
+print("Answer: ")
+print(int(secondterm) + int(firstterm))
