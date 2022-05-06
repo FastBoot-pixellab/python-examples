@@ -1,7 +1,4 @@
-# vilnoys(beta) 1.0.0
 
-# модули
-#import pymongo
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
